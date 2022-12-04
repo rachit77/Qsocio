@@ -1,0 +1,2 @@
+# Qsocio
+Decentralized social media
